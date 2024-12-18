@@ -1,0 +1,14 @@
+{
+  "1111": {
+    "full_name": "John Doe",
+    "password": "123",
+    "user_id": "1111",
+    "phone_number": "123456789",
+    "language": "uz",
+    "created_at": "1231231.1232132.4523546.",
+    "contacts": [
+      "1111",
+      "2222"
+    ]
+  }
+}

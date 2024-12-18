@@ -1,0 +1,7 @@
+[Desktop Entry]
+Name=
+Exec=env WINEPREFIX="/Users/dev/.wine" wine C:\\\\Program\\ Files\\\\TxGameAssistant\\\\AppMarket\\\\AppMarket.exe \\ -startpkg\\ com.tencent.ig\\ \\ -gametype\\ 1\\ \\ -from\\ DesktopLink
+Type=Application
+StartupNotify=true
+Icon=D7DA_Game.0
+StartupWMClass=appmarket.exe

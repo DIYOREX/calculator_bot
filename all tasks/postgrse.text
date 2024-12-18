@@ -1,0 +1,10 @@
+\l  ==>	Barcha ma'lumotlar bazalarini ko'rish
+
+
+\c database_name  ==>	Belgilangan ma'lumotlar bazasiga ulanish
+
+
+CREATE DATABASE db  ==>  Yangi ma'lumotlar bazasini yaratish
+
+
+DROP DATABASE db ==>	Ma'lumotlar bazasini o'chirish

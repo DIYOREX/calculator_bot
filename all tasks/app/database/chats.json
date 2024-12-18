@@ -1,0 +1,31 @@
+{
+   "1111_2222": {
+      "chat_id": "1111_2222",
+      "users": [
+         "1111",
+         "2222"
+      ],
+      "messages": [
+         {
+            "sender_id": "1111",
+            "receiver_id": "2222",
+            "body": "Hi John",
+            "timestamp": "2024-11-07 20:20:42.569998"
+         },
+         {
+            "sender_id": "2222",
+            "receiver_id": "1111",
+            "body": "I am Fine.What about you?",
+            "timestamp": "2024-11-07 20:21:08.011891"
+         }
+      ]
+   },
+   "2222_3333": {
+      "chat_id": "2222_3333",
+      "users": [
+         "2222",
+         "3333"
+      ],
+      "messages": []
+   }
+}

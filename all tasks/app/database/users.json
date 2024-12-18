@@ -1,0 +1,41 @@
+{
+   "1111": {
+      "user_id": "1111",
+      "password": "b'$2b$12$j/PJZvfI3vp2MSbL13j8WeyNXPoA2/1zMch0tijkqhA0ZJ5CcMecu'",
+      "phone_number": "93 704 12 23",
+      "full_name": null,
+      "language": "en",
+      "created_at": "2024-11-07 19:10:15.098723",
+      "contacts": [
+         "2222",
+         "3333"
+      ]
+   },
+   "2222": {
+      "user_id": "2222",
+      "password": "b'$2b$12$mLa.S6niaErIEqdQ4FhkbOcrqqjtxmISY/Jzna8xAGuEEUYBhww86'",
+      "phone_number": "90 123 45 67",
+      "full_name": null,
+      "language": "en",
+      "created_at": "2024-11-07 19:12:17.384785",
+      "contacts": []
+   },
+   "3333": {
+      "user_id": "3333",
+      "password": "b'$2b$12$WjEbg9sHx9958/2jGHw9eeQr7quXIgJN7QqWwbACghfBDn4wwjuUC'",
+      "phone_number": "93 234 24 22",
+      "full_name": null,
+      "language": "en",
+      "created_at": "2024-11-07 19:12:58.917870",
+      "contacts": []
+   },
+   "": {
+      "user_id": "",
+      "password": "b'$2b$12$fEJVMq/vYbHm6iqb1hSU6uJnts6gBqI59eBMlSLdCoqwv2vcRQneO'",
+      "phone_number": "",
+      "full_name": null,
+      "language": "en",
+      "created_at": "2024-11-08 23:20:44.788011",
+      "contacts": []
+   }
+}
